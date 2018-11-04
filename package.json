@@ -1,5 +1,5 @@
 {
-  "name": "lambda-mike-stepper-logic",
+  "name": "express-api-starter",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Samed Duzcay <samedduzcay@gmail.com>",
