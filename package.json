@@ -1,7 +1,7 @@
 {
   "name": "express-api-starter",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "author": "Samed Duzcay <samedduzcay@gmail.com>",
   "license": "MIT",
   "dependencies": {
