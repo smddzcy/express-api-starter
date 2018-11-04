@@ -5,7 +5,6 @@ module.exports = {
     "rules": {
         "no-console": 0,
         "strict": 0,
-        "brace-style": ["error", "stroustrup"],
         "comma-dangle": ["error", "never"],
         "no-unused-vars": ["warn"],
         "no-var": ["off"],
