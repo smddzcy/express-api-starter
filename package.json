@@ -5,9 +5,11 @@
   "author": "Samed Duzcay <samedduzcay@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "cors": "^2.8.4",
     "express": "^4.16.4",
-    "helmet": "^3.14.0"
+    "helmet": "^3.14.0",
+    "serialize-error": "^3.0.0"
   },
   "scripts": {
     "start": "cross-env NODE_ENV=development nodemon app.js"
